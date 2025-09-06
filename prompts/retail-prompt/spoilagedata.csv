@@ -1,12 +1,11 @@
-| Category                 | Total Items Stocked | Total Items Sold | Total Spoilage | Total Spoilage Cost ($) |
-|--------------------------|------------------|----------------|----------------|------------------------|
-| Leafy Greens             | 4500             | 2700           | 1800           | 4,400                  |
-| Cruciferous Vegetables   | 3000             | 2650           | 350            | 955                    |
-| Root Vegetables          | 3000             | 2800           | 200            | 310                    |
-| Alliums                  | 2000             | 1920           | 80             | 106                    |
-| Nightshades              | 2900             | 2650           | 250            | 605                    |
-| Squashes & Gourds        | 1800             | 1650           | 150            | 340                    |
-| Legumes                  | 900              | 790            | 110            | 275                    |
-| Stalk Vegetables         | 600              | 550            | 50             | 125                    |
-| Tubers                   | 2500             | 2410           | 90             | 185                    |
-| Herbs & Microgreens      | 370              | 260            | 110            | 430                    |
+Category,Total Items Stocked,Total Items Sold,Total Spoilage,Total Spoilage Cost ($)
+Leafy Greens,4500,2700,1800,4400
+Cruciferous Vegetables,3000,2650,350,955
+Root Vegetables,3000,2800,200,310
+Alliums,2000,1920,80,106
+Nightshades,2900,2650,250,605
+Squashes & Gourds,1800,1650,150,340
+Legumes,900,790,110,275
+Stalk Vegetables,600,550,50,125
+Tubers,2500,2410,90,185
+Herbs & Microgreens,370,260,110,430
